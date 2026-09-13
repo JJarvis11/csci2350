@@ -1,0 +1,8 @@
+asset_reasoning
+asset_reasoning.exe
+asset_collection
+asset_collection.exe
+asset_functions
+asset_functions.exe
+*.o
+*.obj
